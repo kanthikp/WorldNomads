@@ -1,0 +1,41 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model  NumericSequenceCalculator.Web.Models.NumericSequenceViewModel
+
+@{
+    ViewBag.Title = "Numeric Sequences";
+    ViewBag.Message = "Generate Numeric Sequences";
+
+    var getSequenceInputViewModel = (NumericSequenceCalculator.Web.Models.GetSequenceInputViewModel)ViewBag.GetSequenceInputViewModel;
+}
+
+<h3>@ViewBag.Message</h3>
+
+@Html.Partial("_GetSequenceInput", getSequenceInputViewModel)
+
+@if(ViewBag.Status != "Invalid")
+{
+    
+<table class="table table-hover table-bordered ">
+    <thead>
+        <tr class="active">
+            <td><b>Sequence Type</b></td>
+            <td><b>Sequence </b>[Input:@Model.Limit]</td>
+        </tr>
+    </thead>
+
+@foreach (var sequence in Model.Sequences)
+{
+    <tr>
+        <td><b>@Html.Raw(sequence.Key)</b></td>
+        <td>
+            @Html.Raw(string.Join("<span>, <span>", sequence.Value.Select(x => Html.Encode(x))))
+        </td>
+    </tr>
+}
+
+</table>
+
+}

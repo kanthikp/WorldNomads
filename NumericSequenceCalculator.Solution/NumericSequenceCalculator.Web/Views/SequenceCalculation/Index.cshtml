@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+@{
+    ViewBag.Title = "Numeric Sequences";
+    ViewBag.Message = "Generate Numeric Sequences";
+
+    var getSequenceInputViewModel = (NumericSequenceCalculator.Web.Models.GetSequenceInputViewModel)ViewBag.GetSequenceInputViewModel;
+}
+
+<h3>@ViewBag.Message</h3>
+
+
+@Html.Partial("_GetSequenceInput", getSequenceInputViewModel)

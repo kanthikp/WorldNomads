@@ -1,0 +1,154 @@
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.dll.config
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.pdb
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Helpers.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Mvc.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Razor.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Optimization.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.pdb
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Helpers.xml
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Mvc.xml
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Razor.xml
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.xml
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Optimization.xml
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.csprojResolveAssemblyReference.cache
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.pdb
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Owin.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Owin.dll
+E:\1LEARN\Technical\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Owin.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.dll.config
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.pdb
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Rhino.Mocks.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Net4.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Helpers.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Mvc.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Razor.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Optimization.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Owin.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Owin.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\WebActivatorEx.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Web.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.pdb
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Rhino.Mocks.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.pdb
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Net4.pdb
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Helpers.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Mvc.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Razor.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Optimization.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Owin.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Web.pdb
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Web.xml
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.csprojResolveAssemblyReference.cache
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.dll
+D:\DirtyCode\WNM\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.dll.config
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Rhino.Mocks.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Net4.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Helpers.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Mvc.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Razor.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Optimization.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Owin.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Owin.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\WebActivatorEx.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Web.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Rhino.Mocks.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Net4.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Helpers.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Mvc.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Razor.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Optimization.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Owin.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Web.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Web.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.csprojResolveAssemblyReference.cache
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.dll.config
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.Tests.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Rhino.Mocks.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Net4.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Helpers.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Mvc.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Razor.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Optimization.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Owin.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Owin.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\WebActivatorEx.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Web.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\NumericSequenceCalculator.Web.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Rhino.Mocks.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Net4.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Helpers.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Mvc.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Razor.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\System.Web.Optimization.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\Microsoft.Owin.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Web.pdb
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\bin\Debug\StructureMap.Web.xml
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.csprojResolveAssemblyReference.cache
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.dll
+E:\4Australia\Jobs\InterviewQ\WorldNomads\NumericSequenceCalculator.Solution - Copy\NumericSequenceCalculator.Web.Tests\obj\Debug\NumericSequenceCalculator.Web.Tests.pdb
