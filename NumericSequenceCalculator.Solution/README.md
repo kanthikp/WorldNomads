@@ -14,7 +14,11 @@
 	<li>Used Rhino Mock to implement the unit tests</li>
 </ol>
 <h2>Assumptions:</h2>
-	<ol><li>Input is a whole number and be between 1 and 100000</li></ol>
+	<ol type="1">
+	<li>Input is a whole number and be between 1 and 100000</li>
+	</ol>
 
 <h2>How to run this application:</h2>
-	<ol><li>Open the solution file in the visual studio 2013/2012, build and run.</li></ol>
+	<ol type="1">
+	<li>Open the solution file in the visual studio 2013/2012, build and run.</li>
+	</ol>
