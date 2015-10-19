@@ -20,6 +20,6 @@
 </ol>
 
 <h2>How to run this application:</h2>
-	<ol type="1">
+<ol type="1">
 	<li>Open the solution file in the visual studio 2013/2012, build and run.</li>
-	</ol>
+</ol>
